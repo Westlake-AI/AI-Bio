@@ -1,19 +1,61 @@
 # Paper
 
-\*: Equal Contribution.
+\*: Corresponding Author.
 
-†: Corresponding Author.
+†: Equal Contribution.
 
 ## Accepted
 
-### NLPCC 2023 (CCF-C)
+### ICLR 2025 
 
-**A Benchmark for Understanding Dialogue Safety in Mental Health Support**
+**CBGBench: Fill in the Blank of Protein-Molecule Complex Binding Graph**
 
-_Huachuan Qiu, Tong Zhao, Anqi Li, Shuai Zhang, Hongliang He, Zhenzhong Lan†_
+_Haitao Lin†, Guojiang Zhao†, Odin Zhang, Yufei Huang,
+Lirong Wu, Zicheng Liu, Cheng Tan, Zhifeng Gao, Stan Z. Li*→_
 
-<div style='display: flex'><a href="https://arxiv.org/abs/2307.16457"><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/qiuhuachuan/DialogueSafety'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+<div style='display: flex'><a href="https://arxiv.org/html/2406. 10840v3"><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/qiuhuachuan/DialogueSafety'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
 
+---
+
+**MeToken: Uniform Microenvironment Token Boosts Post-Translational Modification Prediction**
+
+_Cheng Tan, Zhenxiao Cao, Zhangyang Gao, Lirong Wu, Siyuan Li, Yufei Huang, JunXia, Bozhen Hu, Stan Z. Li*_
+
+<div style='display: flex'><a href="https://arxiv.org/abs/2411.01856"><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/qiuhuachuan/DialogueSafety'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+**EVA: Geometric Inverse Design for Fast Protein Motif-Scaffolding with Coupled Flow**
+
+_Yufei Huang , Yunshu Liu ,Lirong Wu , Haitao Lin , ChengTan , Odin Zhang , ZhangyangGao , Siyuan Li , Zicheng Liu ,Yunfan Liu , Tailin Wu , Stan Z.Li*_
+
+<div style='display: flex'><a href="https://arxiv.org/abs/2411.01856"><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/qiuhuachuan/DialogueSafety'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+**Bridging the Gap between Database Search and \emph{De Novo} Peptide Sequencing with SearchNovo**
+
+_Jun Xia, Sizhe Liu, Jingbo Zhou, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li*_
+
+<div style='display: flex'><a href="https://arxiv.org/abs/2411.01856"><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/qiuhuachuan/DialogueSafety'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+**A Simple yet Effective ΔΔ𝐺Predictor is An Unsupervised Antibody Optimizer and Explainer**
+
+_Lirong Wu, Yunfan Liu, Haitao Lin, Yufei Huang, Guojiang Zhao, Zhifeng Gao, Stan Z. Li*_
+
+<div style='display: flex'><a href="https://arxiv.org/html/2502.06913"><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/qiuhuachuan/DialogueSafety'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+**ReNovo: Retrieval-Based \emph{De Novo} Mass Spectrometry Peptide Sequencing**
+
+_Shaorong Chen, Jun Xia, Jingbo Zhou, Lecheng Zhang, Zhangyang Gao, Bozhen Hu, Cheng Tan, Wenjie Du, Stan Z. Li*_
+
+<div style='display: flex'><a href="https://openreview.net/forum?id=uQnvYP7yX9"><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/qiuhuachuan/DialogueSafety'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
 ### ACL 2023 (CCF-A)
 
 [3 篇论文详情](https://zhuanlan.zhihu.com/p/638654347)
