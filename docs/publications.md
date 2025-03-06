@@ -6,7 +6,7 @@
 
 ## Accepted
 
-### ICLR 2025 
+## ICLR 2025 
 
 [6 篇论文详情](https://zhuanlan.zhihu.com/p/20494213894)
 
@@ -59,7 +59,7 @@ _Shaorong Chen, Jun Xia, Jingbo Zhou, Lecheng Zhang, Zhangyang Gao, Bozhen Hu, C
 
 ---
 
-### CVPR 2024 (CCF-A)
+## CVPR 2024 (CCF-A)
 
 **General Point Model Pretraining with Autoencoding and Autoregressive**
 
@@ -69,7 +69,7 @@ _Zhe Li†, Zhangyang Gao†, Cheng Tan†, Bocheng Ren, Laurence T.Yang*,Stan Z
 
 ---
 
-### NeurIPS 2024 (CCF-A)
+## NeurIPS 2024 (CCF-A)
 
 [8 篇论文详情](https://zhuanlan.zhihu.com/p/2205649971)
 
@@ -137,7 +137,7 @@ _Zhangyang Gao, Jue Wang, Cheng Tan, Lirong Wu, Yufei Huang, Siyuan Li, Zhirui Y
 
 ---
 
-### ICML 2024 (CCF-A)
+## ICML 2024 (CCF-A)
 
 [10 篇论文详情](https://zhuanlan.zhihu.com/p/710876266)
 
@@ -221,7 +221,7 @@ _Fang Wu, Stan Z. Li*_
 
 ---
 
-### ICLR 2024 (CCF-A)
+## ICLR 2024 (CCF-A)
 
 [6 篇论文详情](https://mp.weixin.qq.com/s?__biz=Mzk0ODU2OTQ0Nw==&mid=2247484057&idx=1&sn=88ccf2e3a57fdf697d83a88346efa7f5&chksm=c364d691f4135f876fe7ec7db947d91850e67b9ff7b2877517b1cda92521d89b4564faab3ee4&token=861477309&lang=zh_CN#rd)
 
@@ -275,7 +275,7 @@ _Zhangyang Gao†, Cheng Tan†, Xingran Chen, Yijie Zhang, Jun Xia, Siyuan Li, 
 
 ---
 
-### CVPR 2023 (CCF-A)
+## CVPR 2023 (CCF-A)
 
 [2篇论文详情](https://zhuanlan.zhihu.com/p/636501479)
 
@@ -295,7 +295,7 @@ _Cheng Tan, Zhangyang Gao, Lirong Wu, Yongjie Xu, Jun Xia, Siyuan Li, Stan Z. Li
 
 ---
 
-### NeurIPS 2023 (CCF-A)
+## NeurIPS 2023 (CCF-A)
 
 [6篇论文详情](https://zhuanlan.zhihu.com/p/662916018)
 
@@ -377,3 +377,100 @@ _Zelin Zang, Lei Shang, Senqiao Yang, Baigui Sun, Xuansong Xie, Stan Z. Li*_
 
 ## ICML 2023 (CCF-A)
 
+[4篇论文详情](https://zhuanlan.zhihu.com/p/637372921)
+
+**NSCL: Noise-Resistant Soft Contrastive Learning for Universal Domain Adaptation**
+
+_Fang Wu, Siyuan Li, Xurui Jin, Yinghui Jiang, Dragomir Radev, Zhangming Niu, Stan Z. Li*_
+
+<div style='display: flex'><a href='https://arxiv.org/abs/2301.02780'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/smiles724/MatchExplainer'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+**Quantifying the Knowledge in GNNs for Reliable Distillation into MLPs**
+
+_Lirong Wu, Haitao Lin, Yufei Huang, Stan Z. Li*_
+
+<div style='display: flex'><a href='https://arxiv.org/abs/2306.05628'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/LirongWu/KRD'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+**Dink-Net: Neural Clustering on Large Graphs**
+
+_Yue Liu, Ke Liang, Jun Xia, Sihang Zhou, Xihong Yang, Xinwang Liu, Stan Z. Li*_
+
+<div style='display: flex'><a href='https://arxiv.org/abs/2305.18405'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/yueliu1999/Dink-Net'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+**Architecture-Agnostic Masked Image Modeling -- From ViT back to CNN**
+
+_Siyuan Li, Di Wu, Fang Wu, Zelin Zang, Stan.Z.Li*_
+
+<div style='display: flex'><a href='https://arxiv.org/abs/2205.13943'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/Westlake-AI/A2MIM'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+## ICCV 2023 (CCF-A)
+
+[1篇论文详情](https://zhuanlan.zhihu.com/p/651284751)
+
+**Boosting Novel Category Discovery Over Domains with Soft Contrastive Learning and All-in-One Classifier**
+
+_Zelin Zang, Lei Shang, Senqiao Yang, Fei Wang, Baigui Sun, Xuansong Xie, Stan Z. Li*_
+
+<div style='display: flex'><a href='https://arxiv.org/abs/2211.11262'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/zangzelin/code_SAN'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+## CVPR 2022 (CCF-A)
+
+[CVPR2022 | 超球空间上的一致性约束](https://zhuanlan.zhihu.com/p/527209616)
+
+[CVPR2022 | 不需要RNN结构就能做好视频预测的SimVP](https://zhuanlan.zhihu.com/p/527221138)
+
+**Hyperspherical Consistency Regularization**
+
+_Cheng Tan, Zhangyang Gao, Lirong Wu, Siyuan Li, Stan Z. Li*_
+
+<div style='display: flex'><a href='https://arxiv.org/abs/2206.00845'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/chengtan9907/Hyperspherical-Consistency-Regularization'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+**SimVP: Simpler yet Better Video Prediction**
+
+_Zhangyang Gao, Cheng Tan, Lirong Wu, Stan Z. Li*_
+
+<div style='display: flex'><a href='https://arxiv.org/abs/2206.05099'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/A4Bio/SimVP'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+## NeurIPS 2022 (CCF-A)
+
+[2篇论文详情](https://www.westlake.edu.cn/academics/School_of_Engineering/NEWS/202212/t20221216_24613.shtml)
+
+**Knowledge Distillation Improves Graph Structure Augmentation for Graph Neural Networks**
+
+_Lirong Wu, Haitao Lin, Yufei Huang, Stan Z. Li*_
+
+<div style='display: flex'><a href='https://openreview.net/forum?id=7yHte3tH8Xh'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+**Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks via Gradient Debias**
+
+_Zihan Liu, Yun Luo, Lirong Wu, Zicheng Liu, Stan Z. Li*_
+
+<div style='display: flex'><a href='https://openreview.net/forum?id=vkGk2HI8oOP'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
+
+## ICML 2022 (CCF-A)
+
+**Pre-training Graph Neural Networks for Molecular Representations: Retrospect and Prospect**
+
+_Jun Xia, Yanqiao Zhu, Yuanqi Du, Stan Z. Li*_
+
+<div style='display: flex'><a href='https://openreview.net/forum?id=dhXLkrY2Nj3'><img src="https://img.shields.io/badge/Paper-Arxiv-brightgreen" /></a> &nbsp;<a href='https://github.com/yueliu1999/awesome-pretrain-on-graphs'><img src="https://img.shields.io/badge/Code-GitHub-red" /></a></div>
+
+---
