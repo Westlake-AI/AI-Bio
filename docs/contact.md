@@ -8,7 +8,7 @@ layout: doc
 如果你有兴趣以博士生的身份加入我们实验室，请参考以下链接中关于西湖大学博士生招生的相关信息：
 <https://engineering.westlake.edu.cn/Admission/GraduateProgram/>
 
-![图片](/image/apply.jpg)
+![图片](./image/apply.jpg)
 
 ### 博士后、科研助理、访问学生
 
@@ -24,4 +24,4 @@ No.600 Dunyu Road, Xihu District 310030 Hangzhou, Zhejiang PR China
 
 Email：`cairi@westlake.edu.cn`
 
-![图片](/image/address.png)
+![图片](./image/address.png)
