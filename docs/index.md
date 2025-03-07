@@ -9,7 +9,7 @@ hero:
   text: '李子青 博士'
   tagline: '西湖大学人工智能与创新实验室 PI'
   image:
-    src: ./image/lzq.jpg
+    src: ./docs/image/lzq.jpg
     alt: PI
   actions:
     - theme: brand
