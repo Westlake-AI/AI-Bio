@@ -4,7 +4,6 @@
 
 †: Equal Contribution.
 
-## Accepted
 
 ## ICLR 2025 
 
