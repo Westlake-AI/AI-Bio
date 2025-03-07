@@ -8,7 +8,7 @@ layout: doc
 如果你有兴趣以博士生的身份加入我们实验室，请参考以下链接中关于西湖大学博士生招生的相关信息：
 <https://engineering.westlake.edu.cn/Admission/GraduateProgram/>
 
-![图片]（/image/博士申请流程.jpg）
+![图片](/image/apply.jpg)
 
 ### 博士后、科研助理、访问学生
 
